@@ -4,8 +4,10 @@
 
 ## menu
 
+
 + [onepersonsaas.com](https://www.onepersonsaas.com/)
-+ [zaplanujbiznes/www - www.zaplanujbiznes.pl](https://github.com/zaplanujbiznes/www/)
+  + [zaplanujbiznes/www](https://github.com/zaplanujbiznes/www/)
++ Społeczność: [makerslab.info](http://makerslab.info/)  
 
 
 ## EN
