@@ -2,11 +2,24 @@
 
 # [forties.plus](http://www.forties.plus)
 
+## menu
+
++ [onepersonsaas.com](https://www.onepersonsaas.com/)
++ [zaplanujbiznes/www - www.zaplanujbiznes.pl](https://github.com/zaplanujbiznes/www/)
+
 
 ## EN
 too young to retire, too old to work, too smart to do the same thing and too limited to change it quickly?
 
 ## PL
 za młody na emeryturę, zbyt stary na etat, zbyt mądry, by robić to samo i zbyt ograniczony by to szybko zmienić?
+
+
+
+
+
+---
+
++ [edit](https://github.com/forties-plus/www/edit/main/README.md)
 
 
